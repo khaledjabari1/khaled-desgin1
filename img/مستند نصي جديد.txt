@@ -1,0 +1,17 @@
+<div class="containerb">
+                        <div class="text">
+                            <h3>Smart Banking <br> For Freelancers</h3>
+                            <p>
+                                Draft is a revolutionary mobile app built to help 
+                                you manage your business easily and save your money.
+                            </p>
+                            <div class="next">
+                                <p>Register Now</p>
+                                <svg width="10" height="18" viewBox="0 0 10 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M0.675196 1.17505C1.1307 0.719441 1.8695 0.719441 2.3251 1.17505L9.3251 8.1751C9.7806 8.6306 9.7806 9.3694 9.3251 9.825L2.3251 16.825C1.8695 17.2805 1.1307 17.2805 0.675196 16.825C0.219596 16.3694 0.219596 15.6306 0.675196 15.1751L6.8502 9L0.675196 2.82497C0.219596 2.36935 0.219596 1.63067 0.675196 1.17505Z" fill="#DD2F6C"/>
+                                </svg>
+                                    
+                            </div>
+                        </div>
+
+                    </div>
